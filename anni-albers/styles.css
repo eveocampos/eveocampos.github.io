@@ -5,7 +5,7 @@
 main
 { 
     width: 50%;
-    max-block-size:  800px;
+    max-width: 1100px;
     margin: 0 auto;
 }
 
