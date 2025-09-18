@@ -29,6 +29,7 @@ p.callout {
     font-size: 2rem;
     line-height: 1.8rem;
     font-style: italic;
+    float: calc(100% * 2 / 6);
     
 }
 
