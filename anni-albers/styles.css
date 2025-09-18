@@ -42,3 +42,30 @@ p.callout {
 #row13 p {
     margin-left: calc(100% * 3 / 6);
 }
+
+/* **************************************** */
+/* CSS for index2                           */
+/* **************************************** */
+
+/* inherit the baseline main code, above, and add to it */
+body#secondLayout main {
+display: grid;
+grid-template-columns: auto auto auto auto auto auto;
+grid-template-rows: reapeat (13, auto);
+grid-template-areas:
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .'
+'. . . . . .';
+}
+
+#secondlayout section 
