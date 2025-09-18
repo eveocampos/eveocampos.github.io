@@ -89,3 +89,10 @@ grid-template-areas:
 #secondLayout #callout3 { grid-area: c3; }
 #secondLayout #callout4 { grid-area: c4; }
 #secondLayout #auth { grid-area: auth;}
+
+#secondLayout main
+{ 
+    width: 100%;
+    max-margin:  1100px;
+    margin: 0 auto;
+}
