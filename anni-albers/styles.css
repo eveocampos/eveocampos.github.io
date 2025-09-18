@@ -24,11 +24,11 @@ p {
     line-height: 1rem;
 }
 
-p.callout {
+.callout {
     font-size: 2rem;
-    line-height: auto;
+    line-height: 1rem;
     font-style: italic;
-    float: calc(100% * 2 / 6);
+    float: left
 }
 
 #row1 p,
