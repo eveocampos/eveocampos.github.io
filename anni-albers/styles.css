@@ -88,6 +88,7 @@ grid-template-areas:
 #secondLayout #callout2 { grid-area: c2; }
 #secondLayout #callout3 { grid-area: c3; }
 #secondLayout #callout4 { grid-area: c4; }
+#secondLayout #auth { grid-area: auth;}
 /* override the baseline p styles from above */
 #secondLayout {
     width: 100%;
