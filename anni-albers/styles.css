@@ -64,6 +64,7 @@ grid-template-areas:
 '. .p8 p8 . . . .'
 '.p9 p9 . . .c4 c4 . .'
 '. . p10 p10. . . .'
+'. auth. . . . .'
 '. . . . .p11 p11 .'
 '.p12 p12 . . . . .'
 '. . .p13 p13 . . .';
@@ -87,4 +88,4 @@ grid-template-areas:
 #secondLayout #callout2 { grid-area: c2; }
 #secondLayout #callout3 { grid-area: c3; }
 #secondLayout #callout4 { grid-area: c4; }
-#secondLayout #
+#secondLayout #auth { grid-area: auth;}
