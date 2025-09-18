@@ -1,0 +1,10 @@
+/* styles for both Anni Albers layouts */
+
+/* By default, let's lay out the first index.html file */
+
+main
+{ 
+    width: 50%;
+    max-block-size: 800px;
+    margin: 0 auto;
+}
