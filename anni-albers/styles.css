@@ -93,9 +93,19 @@ grid-template-areas:
 #secondLayout {
     width: 100%;
 }
-p.callout {
-    font-size: 2rem;
-    line-height: 1.8rem;
-    font-style: italic;
-     
+#callout1 {
+  font-style: italic;
+  font-weight: bold;
+}
+#callout2 {
+  font-style: italic;
+  font-weight: bold;
+}
+#callout3 {
+  font-style: italic;
+  font-weight: bold;
+}
+#callout4 {
+  font-style: italic;
+  font-weight: bold;
 }
