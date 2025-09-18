@@ -55,7 +55,7 @@ grid-template-rows: repeat(14, auto);
 grid-template-areas:
 'title title title title title title'
 'p1 p1 p1 . . .'
-'c1 c1 c1  p2 p2 p2'
+'c1 c1 c1    p2 p2 p2'
 'p3 p3 p3 . . .'
 '. . p4 p4 p4 . '
 'p5 p5 p5 c2 c2 c2 '
@@ -64,8 +64,8 @@ grid-template-areas:
 '. p8 p8 p8 . .'
 ' p9 p9 p9 c4 c4 c4'
 '. . p10 p10 p10 .'
-'. auth auth auth . .'
 '. . . p11 p11 p11'
+'. auth auth auth . .'
 ' p12 p12 p12  . . .'
 '. . . p13 p13 p13';
 }
@@ -92,4 +92,11 @@ grid-template-areas:
 /* override the baseline p styles from above */
 #secondLayout {
     width: 100%;
+}
+#secondLayout p.callout {
+    font-size: 2rem;
+    line-height: 1.8rem;
+    font-style: italic;
+ 
+    
 }
