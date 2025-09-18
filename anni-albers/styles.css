@@ -8,3 +8,18 @@ main
     max-block-size: 800px;
     margin: 0 auto;
 }
+
+h1 {
+    font-size: 4rem;
+
+}
+h2{
+    font-size: 2rem;
+    font-style: italic;
+}
+
+p{
+
+    font-size: 1rem;
+    line height: .9rem;
+}
