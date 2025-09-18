@@ -23,3 +23,8 @@ p{
     font-size: 1.2rem;
     line height: 1rem;
 }
+p.callout{
+    font-size: 1rem;
+    line-height: auto;
+    font-style: italic;
+}
