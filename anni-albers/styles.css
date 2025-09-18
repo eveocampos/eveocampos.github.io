@@ -70,6 +70,7 @@ grid-template-areas:
 '. . . p13 p13 p13';
 }
 
+/* assigning grid area names to DOM elements */
 #secondLayout #titleRow { grid-area: title; }
 #secondLayout #para1 { grid-area: p1; }
 #secondLayout #para2 { grid-area: p2; }
