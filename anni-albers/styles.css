@@ -21,13 +21,14 @@ h2 {
 p {
 
     font-size: 1.2rem;
-    line height: 1rem;
+    line-height: 1rem;
 }
+
 p.callout {
     font-size: 2rem;
     line-height: auto;
     font-style: italic;
-    float: left;
+    float: calc(100% * 2 / 6);
 }
 
 #row1 p,
