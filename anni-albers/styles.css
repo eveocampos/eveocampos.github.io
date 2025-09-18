@@ -28,3 +28,13 @@ p.callout{
     line-height: auto;
     font-style: italic;
 }
+
+#row1 p,
+#row3 p,
+#row5 p,
+#row7 p,
+#row9 p,
+#row11 p,
+#row13 p{
+    margin-left: calc (100% * 3/ 6);
+}
