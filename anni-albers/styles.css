@@ -68,4 +68,5 @@ grid-template-areas:
 '. . . . . .';
 }
 
-#secondlayout section 
+#secondLayout #titleRow {grid-area: title; }
+#secondLayout
