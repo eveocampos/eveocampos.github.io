@@ -26,12 +26,12 @@ p {
 }
 
 p.callout {
-    font-size: 2rem;
-    line-height: 1.8rem;
-    font-style: italic;
-    float: right;
-    
+  font-size: 2rem;
+  line-height: 1.8rem;
+  font-style: italic;
+  margin-left: calc(100% * 3 / 6); /* same as your row paragraphs */
 }
+
 
 #row1 p,
 #row3 p,
