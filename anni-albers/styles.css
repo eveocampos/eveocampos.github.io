@@ -13,6 +13,7 @@ h1 {
     font-size: 4rem;
 
 }
+
 h2 { 
     font-size: 1rem;
     font-style: italic;
@@ -38,5 +39,5 @@ p.callout {
 #row9 p,
 #row11 p,
 #row13 p {
-    margin-left calc(100% * 3 / 6);
+    margin-left: calc(100% * 3 / 6);
 }
