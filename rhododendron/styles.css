@@ -16,7 +16,7 @@ width: 100vw;
 height: 100vh;
 }
 
-#rododendronpicture {
+#rhododendronpicture {
     position: absolute;
     width: 100vw;
     height: 100vh;
@@ -25,11 +25,16 @@ height: 100vh;
 
 }
 
-#rododendrontitle {
+#rhododendrontitle {
     position: absolute;
     width: 100vw;
     height: 100vh;
 
 }
 
-#rhododenrontitle
+#rhododenrontitle {
+
+    position: absolute;
+    top: 0;
+    right: 0;
+}
