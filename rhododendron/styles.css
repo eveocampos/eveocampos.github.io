@@ -17,7 +17,7 @@ width: 100vw;
 height: 100vh;
 }
 
-#rhododendronpicture {
+#rhododendronPicture {
     position: absolute;
     width: 100vw;
     height: 100vh;
@@ -26,14 +26,14 @@ height: 100vh;
     background-position: center center;
 }
 
-#rhododendrontitle {
+#rhododendronTitle {
     position: absolute;
     width: 100vw;
     height: 100vh;
 
 }
 
-#rhododendrontitle h1 {
+#rhododendronTitle h1 {
 
     position: absolute;
     top: 0;
