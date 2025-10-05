@@ -37,6 +37,9 @@ height: 100vh;
 
     position: absolute;
     top: 0;
-    right: 0;
-    color: blanchedalmond;
+    right: 1em;
+    color: #ef52c9;
+    font-size: 2em;
+    width: calc(100vw - 2em);
+    background-color: green;
 }
