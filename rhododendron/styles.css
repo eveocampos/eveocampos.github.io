@@ -60,6 +60,14 @@ height: 100vh;
     color: #ef52c9;
     font-size: 2em;
 }
+
+#rhododendronInfo p1 {
+    position: absolute;
+     top: 6em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
 @media screen and (orientation: landscape) {
 
     #rhododendronPicture {
