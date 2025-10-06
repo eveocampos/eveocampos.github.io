@@ -41,7 +41,7 @@ height: 100vh;
     color: #ef52c9;
     font-size: 2em;
     width: calc(100vw - 2em);
-    background-color: green;
+  
 }
 
 #rhododendronInfo {
@@ -51,49 +51,58 @@ height: 100vh;
     height: 100vh;
   
 }
+#rhododendronInfo h2 {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    color: black;
+    font-size: 1.2em;
+    width: calc(100vw - 2em);
+    
+}
 
 
 #p1 {
     position: absolute;
-     top: 6em;
+     bottom: -10em;
     right: 1em;
-    color: #f4eaf1;
-    font-size: 1em;
+    color: #0a0a0a;
+    font-size: .75em;
 }
 #p2 {
     position: absolute;
-    top: 10em;
-    right: 1 em;
-    color: #f8eff6;
-    font-size: 1em;
+    bottom: -14em;
+    right: 1em;
+    color: #131212;
+    font-size: .75em;
 }
 #p3 {
     position: absolute;
-    bottom: 22em;
-    right: 1 em;
-    color: #f1ebf0;
-    font-size: .85em;
+    bottom: -20em;
+    right: 1em;
+    color: #0f0e0f;
+   font-size: .75em;
 }
 #p4 {
     position: absolute;
-     bottom: 17em;
-    right: 1 em;
-    color: #f3eff2;
-    font-size: .85em;
+     bottom: -26em;
+    right: 1em;
+    color: #090809;
+    font-size: .75em;
 }
 #p5 {
     position: absolute;
-    bottom: 10em;
-    right: 1 em;
-    color: #f2eaf0;
-    font-size: .85em;
+    bottom: -32em;
+    right: 1em;
+    color: #090909;
+    font-size: .75em;
 }
 #p6 {
     position: absolute;
-    bottom: 4em;
-    right: 1 em;
-    color: #f7f0f5;
-    font-size: .85em;
+    bottom: -38em;
+    right: 1em;
+    color: #080808;
+    font-size: .75em;
 }
 
 #footer {
@@ -101,7 +110,7 @@ height: 100vh;
     position: absolute;
     bottom: 1em;
     right: 1em;
-    color: #f7f0f5;
+    color: #f4eaef;
     font-size: .5em;
 }
 @media screen and (orientation: landscape) {
@@ -117,6 +126,13 @@ height: 100vh;
      #rhododendronTitle h1 {
          width: 45vw;
      }
+    #rhododendronInfo {
+       width: 50vw;
+        background-color: #447609 
+    }
+    #rhododendronInfo h2 {
+        width: 45vw;
+    }
 }
 #footer {
     width: 50vw;
