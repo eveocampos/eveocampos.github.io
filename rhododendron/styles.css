@@ -49,8 +49,16 @@ height: 100vh;
     position: absolute;
     width: 100vw;
     height: 100vh;
+  
+}
+
+#rhododendronInfo h2 {
+
+    position: absolute;
+    top: 4em;
+    right: 1 em;
     color: #ef52c9;
-    font-size: 1em;
+    font-size: 2em;
 }
 @media screen and (orientation: landscape) {
 
