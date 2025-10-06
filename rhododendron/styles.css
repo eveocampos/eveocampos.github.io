@@ -43,3 +43,17 @@ height: 100vh;
     width: calc(100vw - 2em);
     background-color: green;
 }
+@media screen and (orientation: landscape) {
+
+    #rhododendronPicture {
+        width: 50vw;
+        left: 50vw;
+    }
+    #rhododendronTitle {
+        width: 50vw;
+        background-color: #447609
+    }
+     #rhododendronTitle h1 {
+         width: 45vw;
+     }
+}
