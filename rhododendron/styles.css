@@ -123,20 +123,20 @@ height: 100vh;
         left: 50vw;
 }
 #p1 {
-    width: 45vw;
+    width: 50vw;
 }
 #p2 {
-    width: 45vw;
+    width: 50vw;
 }
-#p3 [
-    width: 45vw;
-]
-#p4 [
-    width: 45vw;
-]
+#p3 {
+    width: 50vw;
+}
+#p4 {
+    width: 50vw;
+}
 #p5 {
-    width: 45vw;
+    width: 50vw;
 }
-#p6 [
-    width: 45vw;
-]
+#p6 {
+    width: 50vw;
+}
