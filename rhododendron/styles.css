@@ -56,7 +56,7 @@ height: 100vh;
 
     position: absolute;
     top: 4em;
-    right: 1 em;
+    right: 1em;
     color: #ef52c9;
     font-size: 2em;
 }
@@ -64,6 +64,41 @@ height: 100vh;
 #p1 {
     position: absolute;
      top: 6em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
+#p2 {
+    position: absolute;
+     top: 7em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
+#p3 {
+    position: absolute;
+     top: 8em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
+#p4 {
+    position: absolute;
+     top: 9em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
+#p5 {
+    position: absolute;
+     top: 10em;
+    right: 1 em;
+    color: #ef52c9;
+    font-size: 1em;
+}
+#p6 {
+    position: absolute;
+     top: 11em;
     right: 1 em;
     color: #ef52c9;
     font-size: 1em;
