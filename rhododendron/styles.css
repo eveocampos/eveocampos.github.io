@@ -62,38 +62,38 @@ height: 100vh;
 }
 #p2 {
     position: absolute;
-    top: 9em;
+    top: 10em;
     right: 1 em;
     color: #f8eff6;
     font-size: 1em;
 }
 #p3 {
     position: absolute;
-    bottom: 15em;
+    bottom: 22em;
     right: 1 em;
     color: #f1ebf0;
-    font-size: 1em;
+    font-size: .85em;
 }
 #p4 {
     position: absolute;
-     bottom: 11em;
+     bottom: 17em;
     right: 1 em;
     color: #f3eff2;
-    font-size: 1em;
+    font-size: .85em;
 }
 #p5 {
     position: absolute;
-    bottom: 7em;
+    bottom: 10em;
     right: 1 em;
     color: #f2eaf0;
-    font-size: 1em;
+    font-size: .85em;
 }
 #p6 {
     position: absolute;
-    bottom: 3em;
+    bottom: 4em;
     right: 1 em;
     color: #f7f0f5;
-    font-size: 1em;
+    font-size: .85em;
 }
 
 #footer {
@@ -124,19 +124,25 @@ height: 100vh;
 }
 #p1 {
     width: 50vw;
+    right: 48.5vw;
 }
 #p2 {
     width: 50vw;
+    right: 48.5vw;
 }
 #p3 {
     width: 50vw;
+    right: 48.5vw;
 }
 #p4 {
     width: 50vw;
+    right: 48.5vw;
 }
 #p5 {
     width: 50vw;
+    right: 48.5vw;
 }
 #p6 {
     width: 50vw;
+    right: 48.5vw;
 }
