@@ -52,55 +52,47 @@ height: 100vh;
   
 }
 
-#rhododendronInfo h2 {
-
-    position: absolute;
-    top: 4em;
-    right: 1em;
-    color: #ef52c9;
-    font-size: 2em;
-}
 
 #p1 {
     position: absolute;
      top: 6em;
-    right: 1 em;
-    color: #ef52c9;
+    right: 1em;
+    color: #f4eaf1;
     font-size: 1em;
 }
 #p2 {
     position: absolute;
-     top: 7em;
+    top: 9em;
     right: 1 em;
-    color: #ef52c9;
+    color: #f8eff6;
     font-size: 1em;
 }
 #p3 {
     position: absolute;
-     top: 8em;
+    bottom: 15em;
     right: 1 em;
-    color: #ef52c9;
+    color: #f1ebf0;
     font-size: 1em;
 }
 #p4 {
     position: absolute;
-     top: 9em;
+     bottom: 11em;
     right: 1 em;
-    color: #ef52c9;
+    color: #f3eff2;
     font-size: 1em;
 }
 #p5 {
     position: absolute;
-     top: 10em;
+    bottom: 7em;
     right: 1 em;
-    color: #ef52c9;
+    color: #f2eaf0;
     font-size: 1em;
 }
 #p6 {
     position: absolute;
-     top: 11em;
+    bottom: 3em;
     right: 1 em;
-    color: #ef52c9;
+    color: #f7f0f5;
     font-size: 1em;
 }
 @media screen and (orientation: landscape) {
