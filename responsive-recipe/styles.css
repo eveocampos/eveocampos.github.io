@@ -251,7 +251,7 @@ height: 100vh;
 @media screen and (orientation: landscape) {
 
     #recipePicture {
-        width: 50vw;
+        width: 100vw;
         right: 50vw;
         left: .5em; 
         margin: 2em;
@@ -283,13 +283,13 @@ height: 100vh;
     }
 #cookieingredientsPicture {
     position: absolute;
-    width: 40vw;
-    height: 10vh;
+    width: 25vw;
+    height: 30vh;
     background-image: url(cookie\ ingredients.jpg);
     background-size: cover;
     background-position: center center;
-    top: 28em;
-    right: 1em;
+    top: 56em;
+    left: 3.5em;
 }
 
 
@@ -353,7 +353,7 @@ height: 100vh;
 #l3 {
     width: 25vw;
     left: 40em;
-    top: 48em;
+    top: 60em;
     font-size: 1em;
     
 }
@@ -364,30 +364,74 @@ height: 100vh;
     font-size: 1em;
 }
  #linedbakingtrayPicture {
-        width: 25vw;
-        right: 50vw;
-        left: 2em; 
-        margin: 4em;
+    position: absolute;
+    width: 25vw;
+    height: 25vh;
+    background-image: url(lined\ baking\ tray.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 42em;
+    left: 22em;
+        
     }
 #creamingbutterandsugarPciture {
-        width: 25vw;
-        right: 50vw;
-        left: 2em; 
-        margin: 4em;
+    position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(creaming\ butter\ and\ sugar.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 47em;
+    left: 40em;
 }
 #cookiedoughballsPicture {
-        width: 25vw;
-        right: 50vw;
-        left: 2em; 
-        margin: 4em;
+    position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(cookie\ dough\ balls.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 68em;
+    left: 40em;
 }
 #bakecookiesPicture {
-        width: 25vw;
-        right: 50vw;
-        left: 2em; 
-        margin: 4em;
+       position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(bake\ cookies.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 43em;
+    left: 60em;
 }
 #footer {
     width: 50vw;
-        left: 50vw;
+    left: 2em;
+    top: 150em;
+    
+}
+#p1 {
+     width: 50vw;
+    left: 2em;
+    top: 152em;
+}
+#p2 {
+     width: 50vw;
+    left: 2em;
+    top: 154em;
+}
+#p3 {
+     width: 50vw;
+    left: 2em;
+    top: 156em;
+}
+#p4 {
+     width: 50vw;
+    left: 2em;
+    top: 158em;
+}
+#p5 {
+     width: 50vw;
+    left: 2em;
+    top: 160em;
 }
