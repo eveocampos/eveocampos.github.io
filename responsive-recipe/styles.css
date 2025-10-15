@@ -1,0 +1,115 @@
+/* mobile first design for rhododendron layout */
+
+* {
+
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+
+    padding: 0;
+    margin: 0;
+}
+
+header {
+width: 100vw;
+height: 100vh;
+}
+
+#recipePicture {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(Pacific\ Rhododendron\ 2\ -\ Gary\ Monroe-1.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
+
+#recipeTitle {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#recipeTitle h1 {
+
+    position: absolute;
+    top: 0;
+    right: 1em;
+    color: #ef52c9;
+    font-size: 2em;
+    width: calc(100vw - 2em);
+  
+}
+
+#rhododendronInfo {
+
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+  
+}
+#rhododendronInfo h2 {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    color: black;
+    font-size: 1.2em;
+    width: calc(100vw - 2em);
+    
+}
+
+
+#p1 {
+    position: absolute;
+     bottom: -10em;
+    right: 1em;
+    color: #0a0a0a;
+    font-size: .75em;
+}
+#p2 {
+    position: absolute;
+    bottom: -14em;
+    right: 1em;
+    color: #131212;
+    font-size: .75em;
+}
+#p3 {
+    position: absolute;
+    bottom: -20em;
+    right: 1em;
+    color: #0f0e0f;
+   font-size: .75em;
+}
+#p4 {
+    position: absolute;
+     bottom: -26em;
+    right: 1em;
+    color: #090809;
+    font-size: .75em;
+}
+#p5 {
+    position: absolute;
+    bottom: -32em;
+    right: 1em;
+    color: #090909;
+    font-size: .75em;
+}
+#p6 {
+    position: absolute;
+    bottom: -38em;
+    right: 1em;
+    color: #080808;
+    font-size: .75em;
+}
+
+#footer {
+
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    color: #f4eaef;
+    font-size: .5em;
+}
