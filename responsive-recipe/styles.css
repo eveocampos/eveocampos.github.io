@@ -151,8 +151,8 @@ height: 100vh;
 #footer {
 
     position: absolute;
-    bottom: -34em;
-    right: 1em;
-    color: #f4eaef;
-    font-size: .5em;
+    bottom: 5em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
 }
