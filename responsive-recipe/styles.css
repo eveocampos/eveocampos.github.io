@@ -251,7 +251,7 @@ height: 100vh;
 @media screen and (orientation: landscape) {
 
     #recipePicture {
-        width: 100vw;
+        width: 50vw;
         right: 50vw;
         left: .5em; 
         margin: 2em;
@@ -259,12 +259,12 @@ height: 100vh;
     
     }
     #recipeTitle {
-        width: 50vw;
-        left: 5em
+        width: 40vw;
+        left: 7em
         
     }
      #recipeTitle h1 {
-         width: 50vw;
+         width: 45vw;
      }
     #recipeInfo {
        width: 25vw;
@@ -277,7 +277,7 @@ height: 100vh;
         width: 25vw;
        left: .5em;
     font-size: 2em;
-        top: -12em;
+        top: -9em;
     
     }
     }
@@ -326,14 +326,14 @@ height: 100vh;
 }
 #recipeDirections {
        width: 25vw;
-        right: 25em;
+        right: 20em;
    
        
     }
     #recipeDirections h3 {
         width: 25vw;
     font-size: 2em;
-        top: -12em;
+        top: -9em;
     
     }
 
