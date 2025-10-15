@@ -136,6 +136,15 @@ height: 100vh;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
+#linebakingtrayPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 29em
+}
 #l2 {
     position: absolute;
     bottom: em;
@@ -143,6 +152,15 @@ height: 100vh;
     color: #131212;
     font-size: .50em;
     width: calc(100vw - 30em);
+}
+#creamingbutterandsugarPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 25em
 }
 #l3 {
     position: absolute;
@@ -152,6 +170,15 @@ height: 100vh;
    font-size: .50em;
     width: calc(100vw - 30em);
 }
+#cookiedoughballsPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 22em
+}
 #l4 {
     position: absolute;
      bottom: em;
@@ -159,6 +186,15 @@ height: 100vh;
     color: #090809;
     font-size: .50em;
     width: calc(100vw - 30em);
+}
+#bakedcookiesPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 19em
 }
 
 
