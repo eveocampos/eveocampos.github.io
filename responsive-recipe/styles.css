@@ -252,10 +252,13 @@ height: 100vh;
 
     #recipePicture {
         width: 50vw;
-        left: 50vw;
+        right: 50vw;
+        left: 2em; 
+        margin: 4em;
     }
     #recipeTitle {
         width: 50vw;
+        left: 8em
         
     }
      #recipeTitle h1 {
@@ -263,37 +266,52 @@ height: 100vh;
      }
     #recipeInfo {
        width: 50vw;
+        left: 5em;
+       
+       
        
     }
     #recipeInfo h2 {
         width: 45vw;
+       left: .45em;
+    font-size: 2.5em;
+        top: -10em;
+    
     }
+}
+
+#In1 {
+    width: 45vw;
+    left: 11vw;
+    top: 35em;
+    font-size: 1em;
+}
+#In2 {
+    width: 45vw;
+    left: 11vw;
+    font-size: 1em;
+    top: 37em;
+}
+#In3 {
+    width: 45vw;
+    left: 11vw;
+    top: 39em;
+    font-size: 1em;
+    
+}
+#In4 {
+    width: 45vw;
+    left: 11vw;
+    top: 41em;
+    font-size: 1em;
+}
+#In5 {
+    width: 45vw;
+    left: 11vw;
+    top: 43em;
+    font-size: 1em;
 }
 #footer {
     width: 50vw;
         left: 50vw;
-}
-#p1 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p2 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p3 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p4 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p5 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p6 {
-    width: 50vw;
-    right: 48.5vw;
 }
