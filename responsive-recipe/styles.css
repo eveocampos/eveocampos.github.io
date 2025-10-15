@@ -97,6 +97,52 @@ height: 100vh;
     color: #090909;
     font-size: .75em;
 }
+#recipeDirections {
+
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+  
+}
+#recipeDirections h3 {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    color: black;
+    font-size: 1.2em;
+    width: calc(100vw - 2em);
+    
+}
+
+
+#l1 {
+    position: absolute;
+     bottom: -10em;
+    right: 1em;
+    color: #0a0a0a;
+    font-size: .75em;
+}
+#l2 {
+    position: absolute;
+    bottom: -14em;
+    right: 1em;
+    color: #131212;
+    font-size: .75em;
+}
+#l3 {
+    position: absolute;
+    bottom: -20em;
+    right: 1em;
+    color: #0f0e0f;
+   font-size: .75em;
+}
+#l4 {
+    position: absolute;
+     bottom: -26em;
+    right: 1em;
+    color: #090809;
+    font-size: .75em;
+}
 
 
 #footer {
