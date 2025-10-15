@@ -280,7 +280,18 @@ height: 100vh;
         top: -12em;
     
     }
+    }
+#cookieingredientsPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 28em;
+    right: 1em;
 }
+
 
 #In1 {
     width: 25vw;
