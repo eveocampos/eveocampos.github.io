@@ -106,10 +106,10 @@ height: 100vh;
 }
 #recipeDirections h3 {
     position: absolute;
-    bottom: -8em;
-    right: 1em;
+    bottom: 45em;
+    left: .50em;
     color: black;
-    font-size: 1.2em;
+    font-size: 1.5em;
     width: calc(100vw - 2em);
     
 }
@@ -117,31 +117,34 @@ height: 100vh;
 
 #l1 {
     position: absolute;
-     bottom: -10em;
-    right: 1em;
+     bottom: 27em;
+    left: 2.5em;
     color: #0a0a0a;
-    font-size: .75em;
+    font-size: .50em;
 }
 #l2 {
     position: absolute;
-    bottom: -14em;
-    right: 1em;
+    bottom: 23em;
+    left: 2.5em;
     color: #131212;
-    font-size: .75em;
+    font-size: .50em;
+    width: calc(100vw - 5em);
 }
 #l3 {
     position: absolute;
-    bottom: -20em;
-    right: 1em;
+    bottom: 19em;
+    left: 2.5em;
     color: #0f0e0f;
-   font-size: .75em;
+   font-size: .50em;
+    width: calc(100vw - 5em);
 }
 #l4 {
     position: absolute;
-     bottom: -26em;
-    right: 1em;
+     bottom: 16em;
+    left: 2.5em;
     color: #090809;
-    font-size: .75em;
+    font-size: .50em;
+    width: calc(100vw - 5em);
 }
 
 
