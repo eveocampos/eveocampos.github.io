@@ -44,14 +44,14 @@ height: 100vh;
   
 }
 
-#rhododendronInfo {
+#recipeInfo {
 
     position: absolute;
     width: 100vw;
     height: 100vh;
   
 }
-#rhododendronInfo h2 {
+#recipeInfo h2 {
     position: absolute;
     top: 1em;
     right: 1em;
@@ -62,48 +62,42 @@ height: 100vh;
 }
 
 
-#p1 {
+#In1 {
     position: absolute;
      bottom: -10em;
     right: 1em;
     color: #0a0a0a;
     font-size: .75em;
 }
-#p2 {
+#In2 {
     position: absolute;
     bottom: -14em;
     right: 1em;
     color: #131212;
     font-size: .75em;
 }
-#p3 {
+#In3 {
     position: absolute;
     bottom: -20em;
     right: 1em;
     color: #0f0e0f;
    font-size: .75em;
 }
-#p4 {
+#In4 {
     position: absolute;
      bottom: -26em;
     right: 1em;
     color: #090809;
     font-size: .75em;
 }
-#p5 {
+#In5 {
     position: absolute;
     bottom: -32em;
     right: 1em;
     color: #090909;
     font-size: .75em;
 }
-#p6 {
-    position: absolute;
-    bottom: -38em;
-    right: 1em;
-    color: #080808;
-    font-size: .75em;
-}
+
 
 #footer {
 
