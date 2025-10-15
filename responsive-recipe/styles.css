@@ -62,11 +62,12 @@ height: 100vh;
 }
 #cookieingredientsPicture {
     position: absolute;
-    width: 20vw;
-    height: 15vh;
+    width: 40vw;
+    height: 10vh;
     background-image: url(cookie\ ingredients.jpg);
     background-size: cover;
     background-position: center center;
+    top: 34em
 }
 
 #In1 {
@@ -118,7 +119,7 @@ height: 100vh;
 }
 #recipeDirections h3 {
     position: absolute;
-    bottom: 45em;
+    bottom: 42em;
     left: .50em;
     color: black;
     font-size: 1.5em;
@@ -129,7 +130,7 @@ height: 100vh;
 
 #l1 {
     position: absolute;
-     bottom: 27em;
+     bottom: 18em;
     left: 2.5em;
     color: #0a0a0a;
     font-size: .50em;
@@ -137,7 +138,7 @@ height: 100vh;
 }
 #l2 {
     position: absolute;
-    bottom: 17em;
+    bottom: em;
     left: 2.5em;
     color: #131212;
     font-size: .50em;
@@ -145,7 +146,7 @@ height: 100vh;
 }
 #l3 {
     position: absolute;
-    bottom: 9em;
+    bottom: em;
     left: 2.5em;
     color: #0f0e0f;
    font-size: .50em;
@@ -153,7 +154,7 @@ height: 100vh;
 }
 #l4 {
     position: absolute;
-     bottom: 2em;
+     bottom: em;
     left: 2.5em;
     color: #090809;
     font-size: .50em;
