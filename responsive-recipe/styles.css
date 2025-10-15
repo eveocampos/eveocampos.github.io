@@ -140,7 +140,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ ingredients.jpg);
+    background-image: url(lined\ baking\ tray.jpg);
     background-size: cover;
     background-position: center center;
     top: 29em
@@ -157,7 +157,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ ingredients.jpg);
+    background-image: url(creaming\ butter\ and\ sugar.jpg);
     background-size: cover;
     background-position: center center;
     top: 25em
@@ -174,7 +174,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ ingredients.jpg);
+    background-image: url(cookie\ dough\ balls.jpg);
     background-size: cover;
     background-position: center center;
     top: 22em
@@ -187,11 +187,11 @@ height: 100vh;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
-#bakedcookiesPicture {
+#bakecookiesPicture {
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ ingredients.jpg);
+    background-image: url(bake\ cookies.jpg);
     background-size: cover;
     background-position: center center;
     top: 19em
