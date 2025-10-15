@@ -20,7 +20,7 @@ height: 100vh;
 #recipePicture {
     position: absolute;
     width: 100vw;
-    height: 100vh;
+    height: 50vh;
     background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg);
     background-size: cover;
     background-position: center center;
