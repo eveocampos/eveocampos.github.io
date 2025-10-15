@@ -252,18 +252,18 @@ height: 100vh;
 
     #recipePicture {
         width: 50vw;
-        right: 50vw;
+        left: 50vw;
     }
     #recipeTitle {
         width: 50vw;
-        background-color: #040404
+        
     }
      #recipeTitle h1 {
          width: 50vw;
      }
     #recipeInfo {
        width: 50vw;
-        background-color: #060606 
+       
     }
     #recipeInfo h2 {
         width: 45vw;
