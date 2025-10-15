@@ -67,7 +67,8 @@ height: 100vh;
     background-image: url(cookie\ ingredients.jpg);
     background-size: cover;
     background-position: center center;
-    top: 34em
+    top: 28em;
+    right: 1em;
 }
 
 #In1 {
@@ -136,36 +137,40 @@ height: 100vh;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
-#linebakingtrayPicture {
+#linedbakingtrayPicture {
     position: absolute;
     width: 40vw;
     height: 10vh;
     background-image: url(lined\ baking\ tray.jpg);
     background-size: cover;
     background-position: center center;
-    top: 29em
+    top: 45em;
+    left: 0em;
 }
 #l2 {
     position: absolute;
-    bottom: em;
+    bottom: -6em;
     left: 2.5em;
     color: #131212;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
-#creamingbutterandsugarPicture {
+
+#creamingbutterandsugarPciture {
+
     position: absolute;
     width: 40vw;
     height: 10vh;
     background-image: url(creaming\ butter\ and\ sugar.jpg);
     background-size: cover;
     background-position: center center;
-    top: 25em
+   top: 57em; 
+    left: 0em;
 }
 #l3 {
     position: absolute;
-    bottom: em;
-    left: 2.5em;
+    bottom: 15em;
+    right: 1em;
     color: #0f0e0f;
    font-size: .50em;
     width: calc(100vw - 30em);
@@ -177,12 +182,13 @@ height: 100vh;
     background-image: url(cookie\ dough\ balls.jpg);
     background-size: cover;
     background-position: center center;
-    top: 22em
+    bottom: 1em;
+    right: 0em;
 }
 #l4 {
     position: absolute;
-     bottom: em;
-    left: 2.5em;
+     bottom:-5em;
+    right: 1em;
     color: #090809;
     font-size: .50em;
     width: calc(100vw - 30em);
@@ -194,49 +200,50 @@ height: 100vh;
     background-image: url(bake\ cookies.jpg);
     background-size: cover;
     background-position: center center;
-    top: 19em
+    bottom: -9em;
+    right: 0em;
 }
 
 
 #footer {
 
     position: absolute;
-    bottom: -10em;
+    bottom: -30em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
 }
 #p1 {
     position: absolute;
-    bottom: -11em;
+    bottom: -32em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
 }
 #p2 {
     position: absolute;
-    bottom: -12em;
+    bottom: -34em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
 }
 #p3 {
     position: absolute;
-    bottom: -13em;
+    bottom: -36em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
 }
 #p4 {
     position: absolute;
-    bottom: -14em;
+    bottom: -38em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
 }
 #p5 {
     position: absolute;
-    bottom: -15em;
+    bottom: -40em;
     left: 2.5em;
     color: #100f10;
     font-size: .50em;
