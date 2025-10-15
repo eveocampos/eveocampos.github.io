@@ -64,28 +64,28 @@ height: 100vh;
 
 #In1 {
     position: absolute;
-   top: 2em;
+    bottom: -16em;
     right: 0;
     color: #0a0a0a;
     font-size: 1em;
 }
 #In2 {
     position: absolute;
-    top: 3em;
+    botom: -18em;
     right: 0em;
     color: #131212;
     font-size: 1em;
 }
 #In3 {
     position: absolute;
-    top: 4em;
+    bottom: -14em;
     right: 0em;
     color: #0f0e0f;
    font-size: 1em;
 }
 #In4 {
     position: absolute;
-    top: 5em;
+    bottom: -23em;
     right: 0em;
     color: #090809;
     font-size: 1em;
@@ -106,7 +106,7 @@ height: 100vh;
 }
 #recipeDirections h3 {
     position: absolute;
-    top: 1em;
+    bottom: -8em;
     right: 1em;
     color: black;
     font-size: 1.2em;
@@ -148,7 +148,7 @@ height: 100vh;
 #footer {
 
     position: absolute;
-    bottom: 1em;
+    bottom: -34em;
     right: 1em;
     color: #f4eaef;
     font-size: .5em;
