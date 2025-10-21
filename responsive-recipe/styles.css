@@ -35,22 +35,48 @@ body {
 .recipePicture {
   grid-area: header;
   text-align: center;
-   background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg); 
 
 }
-recipePicture img {
+img1 {
 
   width: 100%;
   height: auto;
 
 }
+
+img2 {
+
+  width: 50%;
+  height: auto;
+
+}
+
+img3 {
+
+  width: 50%;
+  height: auto;
+
+}
+img4 {
+
+  width: 50%;
+  height: auto;
+
+}
+img5 {
+
+  width: 50%;
+  height: auto;
+
+}
+ 
 .recipeTitle > h1 {
   font-size: 32px;
 }
 
 .cookieingredientsPicture {
   grid-area: menu;
-  background-image: url(cookie\ ingredients.jpg); 
+
 }
 
 .recipeInfo > h2 {
@@ -88,23 +114,23 @@ recipePicture img {
 }
 .linedbakingtrayPicture {
   grid-area: menu;
- background-image: url(lined\ baking\ tray.jpg);
+
 }
 
 .creamingbutterandsugarPicture {
 
   grid-area: menu;
-  background-image: url(creaming\ butter\ and\ sugar.jpg);
+
 }
 .cookiedoughballsPicture {
 
   grid-area: menu;
-  background-image: url(cookie\ dough\ balls.jpg);
+
 }
 .bakedcookiesPicture {
 
   grid-area: menu;
-  background-image: url(bake\ cookies.jpg);
+ 
 }
 
 .footer {
