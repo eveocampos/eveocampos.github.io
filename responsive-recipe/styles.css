@@ -24,7 +24,7 @@ body {
     'menu main main left'
     'footer footer footer footer';
     gap: 5px;
-    background-color: whiteandlightpinkstripes;
+    background-color: lightpink;
     padding: 0px;
 }
 .recipe-grid  > div {
@@ -38,7 +38,12 @@ body {
    background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg); 
 
 }
+recipePicture img {
 
+  width: 100%;
+  height: auto;
+
+}
 .recipeTitle > h1 {
   font-size: 32px;
 }
@@ -107,6 +112,8 @@ body {
   color: #0d0c0c;
   text-align: left;
 }
+
+
 
 
 
