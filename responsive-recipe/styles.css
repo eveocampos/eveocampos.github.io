@@ -171,7 +171,7 @@ height: 100vh;
 #l3 {
     position: absolute;
     bottom: 15em;
-    right: 1em;
+    right: 2em;
     color: #0f0e0f;
    font-size: .50em;
     width: calc(100vw - 30em);
@@ -184,7 +184,7 @@ height: 100vh;
     background-size: cover;
     background-position: center center;
     bottom: 1em;
-    right: 0em;
+    right: 1em;
 }
 #l4 {
     position: absolute;
@@ -202,7 +202,7 @@ height: 100vh;
     background-size: cover;
     background-position: center center;
     bottom: -9em;
-    right: 0em;
+    right: 1em;
 }
 
 
