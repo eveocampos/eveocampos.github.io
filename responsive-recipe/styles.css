@@ -249,6 +249,193 @@ height: 100vh;
     color: #100f10;
     font-size: .50em;
 }
+@media screen and (orientation: landscape) {
+
+    #recipePicture {
+        width: 100vw;
+        right: 50vw;
+        left: .5em; 
+        margin: 2em;
+        top: 2em;
+    
+    }
+    #recipeTitle {
+        width: 50vw;
+        left: 5em
+        
+    }
+     #recipeTitle h1 {
+         width: 50vw;
+     }
+    #recipeInfo {
+       width: 25vw;
+        left: 2em;
+       
+       
+       
+    }
+    #recipeInfo h2 {
+        width: 25vw;
+       left: .5em;
+    font-size: 2em;
+        top: -12em;
+    
+    }
+    }
+#cookieingredientsPicture {
+    position: absolute;
+    width: 25vw;
+    height: 30vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 56em;
+    left: 3.5em;
+}
+
+
+#In1 {
+    width: 25vw;
+    left: 6vw;
+    top: 35em;
+    font-size: 1em;
+}
+#In2 {
+    width: 25vw;
+    left: 6vw;
+    font-size: 1em;
+    top: 39em;
+}
+#In3 {
+    width: 25vw;
+    left: 6vw;
+    top: 43em;
+    font-size: 1em;
+    
+}
+#In4 {
+    width: 25vw;
+    left: 6vw;
+    top: 47em;
+    font-size: 1em;
+}
+#In5 {
+    width: 25vw;
+    left: 6vw;
+    top: 51em;
+    font-size: 1em;
+}
+#recipeDirections {
+       width: 25vw;
+        right: 25em;
+   
+       
+    }
+    #recipeDirections h3 {
+        width: 25vw;
+    font-size: 2em;
+        top: -12em;
+    
+    }
+
+
+#l1 {
+    width: 25vw;
+    left: 23em;
+    top: 35em;
+    font-size: 1em;
+}
+#l2 {
+    width: 25vw;
+    left: 40em;
+    font-size: 1em;
+    top: 35em;
+}
+#l3 {
+    width: 25vw;
+    left: 40em;
+    top: 60em;
+    font-size: 1em;
+    
+}
+#l4 {
+    width: 25vw;
+    left: 60em;
+    top: 35em;
+    font-size: 1em;
+}
+ #linedbakingtrayPicture {
+    position: absolute;
+    width: 25vw;
+    height: 25vh;
+    background-image: url(lined\ baking\ tray.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 42em;
+    left: 22em;
+        
+    }
+#creamingbutterandsugarPciture {
+    position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(creaming\ butter\ and\ sugar.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 47em;
+    left: 40em;
+}
+#cookiedoughballsPicture {
+    position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(cookie\ dough\ balls.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 68em;
+    left: 40em;
+}
+#bakecookiesPicture {
+       position: absolute;
+    width: 25vw;
+    height: 20vh;
+    background-image: url(bake\ cookies.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 43em;
+    left: 60em;
+}
+#footer {
+    width: 50vw;
+    left: 2em;
+    top: 150em;
+    
+}
+#p1 {
+     width: 50vw;
+    left: 2em;
+    top: 152em;
+}
+#p2 {
+     width: 50vw;
+    left: 2em;
+    top: 154em;
+}
+#p3 {
+     width: 50vw;
+    left: 2em;
+    top: 156em;
+}
+#p4 {
+     width: 50vw;
+    left: 2em;
+    top: 158em;
+}
+#p5 {
+     width: 50vw;
+    left: 2em;
+    top: 160em;
+}
 
  
 
