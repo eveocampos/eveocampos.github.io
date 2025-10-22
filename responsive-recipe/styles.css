@@ -69,7 +69,14 @@ img5 {
   height: auto;
 
 }
- 
+ div {
+  width: 50%;
+  height: 200px;
+  background-image: url('lined_baking_tray.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1px solid rgb(12, 12, 12);
+}
 .recipeTitle > h1 {
   font-size: 32px;
 }
