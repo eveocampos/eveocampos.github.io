@@ -1,457 +1,257 @@
-* mobile first design for responsive recipe layout */ 
+/* mobile first design for rhododendron layout */
+
+* {
+
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+
+    padding: 0;
+    margin: 0;
+}
+
+header {
+width: 100vw;
+height: 100vh;
+}
+
+#recipePicture {
+    position: absolute;
+    width: 100vw;
+    height: 50vh;
+    background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+#recipeTitle {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#recipeTitle h1 {
+
+    position: absolute;
+    top: 0;
+    right: 1em;
+    color: #0c0c0c;
+    font-size: 2em;
+    width: calc(100vw - 2em);
+  
+}
+
+#recipeInfo {
+
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+  
+}
+#recipeInfo h2 {
+    position: absolute;
+    top: -19em;
+    right: 1.5em;
+    color: black;
+    font-size: 1.5em;
+    width: calc(100vw - 2em);
+    
+}
+#cookieingredientsPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ ingredients.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 28em;
+    right: 1em;
+}
+
+#In1 {
+    position: absolute;
+   bottom: 46em;
+   left: 3em;
+    color: #0a0a0a;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#In2 {
+    position: absolute;
+    top: 60em;
+    left: 3em;
+    color: #131212;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#In3 {
+    position: absolute;
+    top: 62em;
+    left: 3em;
+    color: #0f0e0f;
+   font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#In4 {
+    position: absolute;
+    top: 64em;
+    left: 3em;
+    color: #090809;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#In5 {
+    position: absolute;
+    top: 66em;
+    left: 3em;
+    color: #090909;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#recipeDirections {
+
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+  
+}
+#recipeDirections h3 {
+    position: absolute;
+    bottom: 42em;
+    left: .50em;
+    color: black;
+    font-size: 1.5em;
+    width: calc(100vw - 2em);
+    
+}
+
+
+#l1 {
+    position: absolute;
+     bottom: 18em;
+    left: 2.5em;
+    color: #0a0a0a;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#linedbakingtrayPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(lined\ baking\ tray.jpg);
+    background-size: cover;
+    background-position: center center;
+    top: 45em;
+    left: 0em;
+}
+#l2 {
+    position: absolute;
+    bottom: -6em;
+    left: 2.5em;
+    color: #131212;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+
+#creamingbutterandsugarPciture {
+
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(creaming\ butter\ and\ sugar.jpg);
+    background-size: cover;
+    background-position: center center;
+   top: 57em; 
+    left: 0em;
+}
+#l3 {
+    position: absolute;
+    bottom: 15em;
+    right: 1em;
+    color: #0f0e0f;
+   font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#cookiedoughballsPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(cookie\ dough\ balls.jpg);
+    background-size: cover;
+    background-position: center center;
+    bottom: 1em;
+    right: 0em;
+}
+#l4 {
+    position: absolute;
+     bottom:-5em;
+    right: 1em;
+    color: #090809;
+    font-size: .50em;
+    width: calc(100vw - 30em);
+}
+#bakecookiesPicture {
+    position: absolute;
+    width: 40vw;
+    height: 10vh;
+    background-image: url(bake\ cookies.jpg);
+    background-size: cover;
+    background-position: center center;
+    bottom: -9em;
+    right: 0em;
+}
+
+
+#footer {
+
+    position: absolute;
+    bottom: -30em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
+#p1 {
+    position: absolute;
+    bottom: -32em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
+#p2 {
+    position: absolute;
+    bottom: -34em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
+#p3 {
+    position: absolute;
+    bottom: -36em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
+#p4 {
+    position: absolute;
+    bottom: -38em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
+#p5 {
+    position: absolute;
+    bottom: -40em;
+    left: 2.5em;
+    color: #100f10;
+    font-size: .50em;
+}
 
  
 
-* { 
 
- 
-
-    box-sizing: border-box; 
-
-    font-family: Arial, sans-serif; 
-
-} 
-
- 
-
-body { 
-
- 
-
-    padding: 0; 
-
-    margin: 0; 
-    background-color: lightpink;
-
-} 
-
- 
-
-header { 
-
-width: 100vw; 
-
-height: 100vh; 
-
-} 
-
- 
-
-#EasiestChocolatechipcookiesPicture { 
-
-    position: absolute; 
-
-    width: 100vw; 
-
-    height: 50vh; 
-
-    background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg); 
-
-    background-size: cover; 
-
-    background-position: center center; 
-
-} 
-
- 
-
-#recipeTitle { 
-
-    position: absolute; 
-
-    width: 100vw; 
-
-    height: 100vh; 
-
- 
-
-} 
-
- 
-
-#recipeTitle h1 { 
-
- 
-
-    position: absolute; 
-
-    top: 0; 
-
-    right: 1em; 
-
-    color: #0c0c0c; 
-
-    font-size: 1.5em; 
-
-    width: calc(100vw - 2em); 
-
-   
-
-} 
-
- 
-
-#recipeInfo { 
-
- 
-
-    position: absolute; 
-
-    width: 100vw; 
-
-    height: 100vh; 
-
-   
-
-} 
-
-#recipeInfo h2 { 
-
-    position: absolute; 
-
-    top: -19em; 
-
-    right: 1.5em; 
-
-    color: black; 
-
-    font-size: 1.5em; 
-
-    width: calc(100vw - 2em); 
-
-     
-
-} 
-
-#cookieingredientsPicture { 
-
-    position: absolute; 
-
-    width: 40vw; 
-
-    height: 10vh; 
-
-    background-image: url(cookie\ ingredients.jpg); 
-
-    background-size: cover; 
-
-    background-position: center center; 
-
-    top: 28em; 
-
-    right: 1em; 
-
-} 
-
- 
-
-#In1 { 
-
-    position: absolute; 
-
-   bottom: 46em; 
-
-   left: 3em; 
-
-    color: #0a0a0a; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#In2 { 
-
-    position: absolute; 
-
-    top: 60em; 
-
-    left: 3em; 
-
-    color: #131212; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#In3 { 
-
-    position: absolute; 
-
-    top: 62em; 
-
-    left: 3em; 
-
-    color: #0f0e0f; 
-
-   font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#In4 { 
-
-    position: absolute; 
-
-    top: 64em; 
-
-    left: 3em; 
-
-    color: #090809; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#In5 { 
-
-    position: absolute; 
-
-    top: 66em; 
-
-    left: 3em; 
-
-    color: #090909; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#recipeDirections { 
-
- 
-
-    position: absolute; 
-
-    width: 100vw; 
-
-    height: 100vh; 
-
-   
-
-} 
-
-#recipeDirections h3 { 
-
-    position: absolute; 
-
-    bottom: 42em; 
-
-    left: .50em; 
-
-    color: black; 
-
-    font-size: 1.5em; 
-
-    width: calc(100vw - 2em); 
-
-     
-
-} 
-
- 
-
- 
-
-#l1 { 
-
-    position: absolute; 
-
-     bottom: 18em; 
-
-    left: 2.5em; 
-
-    color: #0a0a0a; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#linedbakingtrayPicture { 
-
-    position: absolute; 
-
-    width: 40vw; 
-
-    height: 10vh; 
-
-    background-image: url(lined\ baking\ tray.jpg); 
-
-    background-size: cover; 
-
-    background-position: center center; 
-
-    top: 45em; 
-
-    left: 0em; 
-
-} 
-
-#l2 { 
-
-    position: absolute; 
-
-    bottom: -6em; 
-
-    left: 2.5em; 
-
-    color: #131212; 
-
-    font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
- 
-
-#creamingbutterandsugarPciture { 
-
- 
-
-    position: absolute; 
-
-    width: 40vw; 
-
-    height: 10vh; 
-
-    background-image: url(creaming\ butter\ and\ sugar.jpg); 
-
-    background-size: cover; 
-
-    background-position: center center; 
-
-   top: 57em;  
-
-    left: 0em; 
-
-} 
-
-#l3 { 
-
-    position: absolute; 
-
-    bottom: 15em; 
-
-    right: 1em; 
-
-    color: #0f0e0f; 
-
-   font-size: .50em; 
-
-    width: calc(100vw - 30em); 
-
-} 
-
-#cookiedoughballsPicture { 
-
-    position: absolute; 
-    width: 40vw; 
-    height: 10vh; 
-    background-image: url(cookie\ dough\ balls.jpg); 
-    background-size: cover; 
-    background-position: center center; 
-    bottom: 1em; 
-    right: 0em; 
-
-} 
-
-#l4 { 
-
-    position: absolute; 
-     bottom:-5em; 
-    right: 1em; 
-    color: #090809; 
-    font-size: .50em; 
-    width: calc(100vw - 30em); 
-
-} 
-
-#bakecookiesPicture { 
-
-    position: absolute; 
-
-    width: 40vw; 
-
-    height: 10vh; 
-    background-image: url(bake\ cookies.jpg); 
-    background-size: cover; 
-    background-position: center center; 
-    bottom: -9em; 
-    right: 0em; 
-
-} 
-
-
-#footer { 
-
-    position: absolute; 
-    bottom: -30em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
-
-#p1 { 
-
-    position: absolute; 
-    bottom: -32em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
-
-#p2 { 
-
-    position: absolute; 
-    bottom: -34em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
-
-#p3 { 
-
-    position: absolute; 
-    bottom: -36em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
-
-#p4 { 
-
-    position: absolute; 
-    bottom: -38em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
-
-#p5 { 
-
-    position: absolute; 
-    bottom: -40em; 
-    left: 2.5em; 
-    color: #100f10; 
-    font-size: .50em; 
-
-} 
 
 
 
