@@ -1,9 +1,8 @@
-/* mobile first design for rhododendron layout */
-
+/* mobile first design for responsive recipe layout */
 * {
 
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+   
 }
 
 body {
@@ -11,6 +10,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: lightpink;
+    font-family: Arial, sans-serif;
 }
 
 header {
@@ -22,7 +22,7 @@ height: 100vh;
     position: absolute;
     width: 100vw;
     height: 50vh;
-    background-image: url(Easiest\ Chocolate\ chip\ cookies.jpg);
+    background-image: url("Easiest-Chocolate-Chip-Cookies.jpg");
     background-size: cover;
     background-position: center center;
 }
@@ -54,10 +54,10 @@ height: 100vh;
 }
 #recipeInfo h2 {
     position: absolute;
-    top: -19em;
+    bottom: 35em;
     right: 1.5em;
     color: black;
-    font-size: 1.5em;
+    font-size: 2em;
     width: calc(100vw - 2em);
     
 }
@@ -65,7 +65,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ ingredients.jpg);
+    background-image: url("cookie-ingredients.jpg");
     background-size: cover;
     background-position: center center;
     top: 28em;
@@ -142,7 +142,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(lined\ baking\ tray.jpg);
+    background-image: url("lined-baking-tray.jpg");
     background-size: cover;
     background-position: center center;
     top: 45em;
@@ -162,7 +162,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(creaming\ butter\ and\ sugar.jpg);
+    background-image: url("creaming-butter-and-sugar.jpg");
     background-size: cover;
     background-position: center center;
    top: 57em; 
@@ -180,7 +180,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(cookie\ dough\ balls.jpg);
+    background-image: url("cookie-dough-balls.jpg");
     background-size: cover;
     background-position: center center;
     bottom: 1em;
@@ -198,7 +198,7 @@ height: 100vh;
     position: absolute;
     width: 40vw;
     height: 10vh;
-    background-image: url(bake\ cookies.jpg);
+    background-image: url("bake-cookies.jpg");
     background-size: cover;
     background-position: center center;
     bottom: -9em;
@@ -249,9 +249,9 @@ height: 100vh;
     color: #100f10;
     font-size: .50em;
 }
-@media screen and (orientation: landscape) {
+@media only screen and (min-width: 768px) {
 
-    #recipePicture {
+    #EasiestChocolatechipcookiesPicture {
         width: 100vw;
         right: 50vw;
         left: .5em; 
@@ -282,7 +282,7 @@ height: 100vh;
         top: -12em;
     
     }
-    }
+    
 #cookieingredientsPicture {
     position: absolute;
     width: 18vw;
@@ -339,7 +339,7 @@ height: 100vh;
        
     }
     #recipeDirections h3 {
-        position: absolute:
+        position: absolute;
         width: 25vw;
     font-size: 2em;
         top: -12em;
@@ -380,7 +380,7 @@ height: 100vh;
     position: absolute;
     width: 18vw;
     height: 20vh;
-    background-image: url(lined\ baking\ tray.jpg);
+    background-image: url("lined-baking-tray.jpg");
     background-size: cover;
     background-position: center center;
     top: 42em;
@@ -391,7 +391,7 @@ height: 100vh;
     position: absolute;
     width: 16vw;
     height: 18vh;
-    background-image: url(creaming\ butter\ and\ sugar.jpg);
+    background-image: url("creaming-butter-and-sugar.jpg");
     background-size: cover;
     background-position: center center;
     top: 47em;
@@ -402,7 +402,7 @@ height: 100vh;
     position: absolute;
     width: 18vw;
     height: 20vh;
-    background-image: url(cookie\ dough\ balls.jpg);
+    background-image: url("cookie-dough-balls.jpg");
     background-size: cover;
     background-position: center center;
     top: 68em;
@@ -412,7 +412,7 @@ height: 100vh;
        position: absolute;
     width: 20vw;
     height: 18vh;
-    background-image: url(bake\ cookies.jpg);
+    background-image: url("bake-cookies.jpg");
     background-size: cover;
     background-position: center center;
     top: 43em;
@@ -448,6 +448,7 @@ height: 100vh;
      width: 50vw;
     left: 2em;
     top: 160em;
+}
 }
 
  
