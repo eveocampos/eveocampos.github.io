@@ -266,9 +266,11 @@ height: 50vh;
     }
      #recipeTitle h1 {
          width: 50vw;
+        
      }
     #recipeInfo {
        width: 25vw;
+       
         
        
        
@@ -279,18 +281,19 @@ height: 50vh;
         width: 25vw;
       float: left;
     font-size: 2em;
-      margin-top: -12em;
+      margin-top: o;
+    
     
     }
     
 #cookieingredientsPicture {
    
-    width: 18vw;
-    height: 25vh;
+    
+    height: 35vh;
     background-image: url(cookie\ ingredients.jpg);
     background-size: cover;
     background-position: center center;
-    margin-top: 56em;
+    
    float: right;
     
 }
@@ -300,7 +303,7 @@ height: 50vh;
     width: 25vw;
     padding-left: 1.5em;
     padding-right: 2em;
-    top: 35em;
+   
     font-size: 1em;
 }
 #In2 {
@@ -308,13 +311,13 @@ height: 50vh;
     padding-left: 1.5em;
     padding-right: 3em;
     font-size: 1em;
-    top: 39em;
+    
 }
 #In3 {
     width: 25vw;
     padding-left: 1.5em;
     padding-right: 2em;
-    top: 43em;
+  
     font-size: 1em;
     
 }
@@ -322,28 +325,29 @@ height: 50vh;
     width: 25vw;
     padding-left: 1.5em;
     padding-right: 2em;
-    top: 47em;
+ 
     font-size: 1em;
 }
 #In5 {
     width: 25vw;
     padding-left: 1.5em;
     padding-right: 2em;
-    top: 51em;
+    
     font-size: 1em;
 }
 #recipeDirections {
        width: 25vw;
-        float: right;
+       
    
        
     }
     #recipeDirections h3 {
        
         width: 25vw;
+        float: left;
         font-size: 2em;
-        margin-top: -12em;
-    
+        margin-top: 2em;
+        
     }
 
 
@@ -351,7 +355,7 @@ height: 50vh;
     width: 25vw;
     float: left;
    padding-right: 5em;
-    margin-top: 35;
+    margin-top: 0;
     font-size: 1em;
 }
 #l2 {
@@ -359,13 +363,13 @@ height: 50vh;
     float: left;
     padding-right: 7em;
     font-size: 1em;
-   margin-top: 35em;
+    margin-top: 0;
 }
 #l3 {
     width: 25vw;
     float: left;
     padding-right: 7em;
-    margin-top: 60em;
+    margin-top: 0;
     font-size: 1em;
     
 }
@@ -373,61 +377,61 @@ height: 50vh;
     width: 25vw;
     float: left;
     padding-right: 3em;
-    margin-top: 35em;
+    margin-top: 0;
     font-size: 1em;
 }
  #linedbakingtrayPicture {
     
-    width: 18vw;
-    height: 20vh;
+   
+    height: 25vh;
     background-image: url(lined\ baking\ tray.jpg);
     background-size: cover;
     background-position: center center;
-    margin-top: 23em;
-    float: right;
+    margin-top: 0;
+    float: right ;
         
     }
 #creamingbutterandsugarPicture {
   
-    width: 16vw;
-    height: 18vh;
+   
+    height: 25vh;
     background-image: url(creaming\ butter\ and\ sugar.jpg);
     background-size: cover;
     background-position: center center;
-    margin-top: 47em;
+    margin-top: 0;
     float: right;
    
 }
 #cookiedoughballsPicture {
     
-    width: 18vw;
-    height: 20vh;
+   
+    height: 25vh;
     background-image: url(cookie\ dough\ balls.jpg);
     background-size: cover;
     background-position: center center;
-    margin-top: 68em;
+    margin-top: 0;
     float: right;
 }
 #bakecookiesPicture {
     
-    width: 20vw;
-    height: 18vh;
+  
+    height: 25vh;
     background-image: url(bake\ cookies.jpg);
     background-size: cover;
     background-position: center center;
-    margin-top: 43em;
+    margin-top: 0;
     float: right;
 }
 #footer {
     width: 50vw;
     
-    top: 150em;
+    
     
 }
 #p1 {
      width: 50vw;
     
-    margin-top: 152em;
+    margin-top: 0;
 }
 #p2 {
      width: 50vw;
@@ -437,16 +441,16 @@ height: 50vh;
 #p3 {
      width: 50vw;
    
-   margin-top: 156em;
+   margin-top: 0;
 }
 #p4 {
      width: 50vw;
    
-    margin-top: 158em;
+    margin-top: 0;
 }
 #p5 {
      width: 50vw;
    
-    margin-top: 160em;
+    margin-top: 0;
 }
 }
