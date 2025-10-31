@@ -79,7 +79,19 @@ nav > ul > li > ul {
 nav > ul > li > ul > li {
     padding: 0.5rem 0 0.5rem 0.5rem;
 }
+nav li :hover {
 
+    background-color: var(--nav-hover-background-color);
+}
+
+nav li :hover a {
+    color: var(--nav-hover-text-color);
+}
+nav a {
+
+    text-decoration: none;
+    color: var(--nav-text-color);
+}
 header {
 width: 100vw;
 height: 100vh;
