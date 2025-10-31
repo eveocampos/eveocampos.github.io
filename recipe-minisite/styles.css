@@ -40,6 +40,7 @@ nav {
     font-size: 2rem;
     color: var(--nav-text-color);
     padding: 0.1em 0 0 0.5em;
+    max-height: 2rem;
 }
 
 nav ul {
