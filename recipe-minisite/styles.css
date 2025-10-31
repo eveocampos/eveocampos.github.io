@@ -57,7 +57,7 @@ nav > ul {
     overflow: hidden;
 }
 
-nav.clicked > ul {
+nav.click > ul {
     max-height: 90vh;
 }
 
