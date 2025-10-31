@@ -42,6 +42,19 @@ nav {
     padding: 0.1em 0 0 0.5em;
 }
 
+nav ul {
+
+    position: relative;
+    background-color: var(--nav-background-color);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul {
+    
+}
+
 header {
 width: 100vw;
 height: 100vh;
