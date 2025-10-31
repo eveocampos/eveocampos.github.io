@@ -275,16 +275,7 @@ height: 100vh;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
-#linedbakingtrayPicture {
-    position: absolute;
-    width: 40vw;
-    height: 10vh;
-    background-image: url(lined\ baking\ tray.jpg);
-    background-size: cover;
-    background-position: center center;
-    top: 45em;
-    left: 0em;
-}
+
 #l2 {
     position: absolute;
     bottom: -6em;
@@ -294,17 +285,7 @@ height: 100vh;
     width: calc(100vw - 30em);
 }
 
-#creamingbutterandsugarPciture {
 
-    position: absolute;
-    width: 40vw;
-    height: 10vh;
-    background-image: url(creaming\ butter\ and\ sugar.jpg);
-    background-size: cover;
-    background-position: center center;
-   top: 57em; 
-    left: 0em;
-}
 #l3 {
     position: absolute;
     bottom: 15em;
@@ -313,16 +294,7 @@ height: 100vh;
    font-size: .50em;
     width: calc(100vw - 30em);
 }
-#cookiedoughballsPicture {
-    position: absolute;
-    width: 40vw;
-    height: 10vh;
-    background-image: url(cookie\ dough\ balls.jpg);
-    background-size: cover;
-    background-position: center center;
-    bottom: 1em;
-    right: 1em;
-}
+
 #l4 {
     position: absolute;
      bottom:-5em;
@@ -330,16 +302,6 @@ height: 100vh;
     color: #090809;
     font-size: .50em;
     width: calc(100vw - 30em);
-}
-#bakecookiesPicture {
-    position: absolute;
-    width: 40vw;
-    height: 10vh;
-    background-image: url(bake\ cookies.jpg);
-    background-size: cover;
-    background-position: center center;
-    bottom: -9em;
-    right: 1em;
 }
 
 
@@ -351,41 +313,7 @@ height: 100vh;
     color: #100f10;
     font-size: .50em;
 }
-#p1 {
-    position: absolute;
-    bottom: -32em;
-    left: 2.5em;
-    color: #100f10;
-    font-size: .50em;
-}
-#p2 {
-    position: absolute;
-    bottom: -34em;
-    left: 2.5em;
-    color: #100f10;
-    font-size: .50em;
-}
-#p3 {
-    position: absolute;
-    bottom: -36em;
-    left: 2.5em;
-    color: #100f10;
-    font-size: .50em;
-}
-#p4 {
-    position: absolute;
-    bottom: -38em;
-    left: 2.5em;
-    color: #100f10;
-    font-size: .50em;
-}
-#p5 {
-    position: absolute;
-    bottom: -40em;
-    left: 2.5em;
-    color: #100f10;
-    font-size: .50em;
-}
+
 @media screen and (orientation: landscape) {
 
     #recipePicture {
@@ -420,17 +348,6 @@ height: 100vh;
     
     }
     
-#cookieingredientsPicture {
-    position: absolute;
-    width: 18vw;
-    height: 25vh;
-    background-image: url(cookie\ ingredients.jpg);
-    background-size: cover;
-    background-position: center center;
-    top: 56em;
-    left: 3.5em;
-    
-}
 
 
 #In1 {
