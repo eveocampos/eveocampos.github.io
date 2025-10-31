@@ -54,8 +54,8 @@ height: 100vh;
 }
 #recipeInfo h2 {
   
-    top: -19em;
-    right: 1.5em;
+  
+  
     color: black;
     font-size: 1.5em;
     width: calc(100vw - 2em);
@@ -68,46 +68,46 @@ height: 100vh;
     background-image: url(cookie\ ingredients.jpg);
     background-size: cover;
     background-position: center center;
-    top: 28em;
-    right: 1em;
+  
+  
 }
 
 #In1 {
     
-   bottom: 46em;
-   left: 3em;
+  
+  
     color: #0a0a0a;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
 #In2 {
  
-    top: 60em;
-    left: 3em;
+    
+   
     color: #131212;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
 #In3 {
   
-    top: 62em;
-    left: 3em;
+    
+  
     color: #0f0e0f;
    font-size: .50em;
     width: calc(100vw - 30em);
 }
 #In4 {
    
-    top: 64em;
-    left: 3em;
+   
+   
     color: #090809;
     font-size: .50em;
     width: calc(100vw - 30em);
 }
 #In5 {
  
-    top: 66em;
-    left: 3em;
+    
+   
     color: #090909;
     font-size: .50em;
     width: calc(100vw - 30em);
@@ -121,8 +121,8 @@ height: 100vh;
 }
 #recipeDirections h3 {
   
-    bottom: 42em;
-    left: .50em;
+    
+   
     color: black;
     font-size: 1.5em;
     width: calc(100vw - 2em);
@@ -132,8 +132,8 @@ height: 100vh;
 
 #l1 {
    
-     bottom: 18em;
-    left: 2.5em;
+    
+  
     color: #0a0a0a;
     font-size: .50em;
     width: calc(100vw - 30em);
@@ -145,13 +145,13 @@ height: 100vh;
     background-image: url(lined\ baking\ tray.jpg);
     background-size: cover;
     background-position: center center;
-    top: 45em;
-    left: 0em;
+    
+    
 }
 #l2 {
    
-    bottom: -6em;
-    left: 2.5em;
+  
+   
     color: #131212;
     font-size: .50em;
     width: calc(100vw - 30em);
@@ -165,13 +165,13 @@ height: 100vh;
     background-image: url(creaming\ butter\ and\ sugar.jpg);
     background-size: cover;
     background-position: center center;
-   top: 57em; 
-    left: 0em;
+ 
+    
 }
 #l3 {
  
-    bottom: 15em;
-    right: 2em;
+    
+   
     color: #0f0e0f;
    font-size: .50em;
     width: calc(100vw - 30em);
@@ -183,13 +183,13 @@ height: 100vh;
     background-image: url(cookie\ dough\ balls.jpg);
     background-size: cover;
     background-position: center center;
-    bottom: 1em;
-    right: 1em;
+   
+   
 }
 #l4 {
     
-     bottom:-5em;
-    right: 1em;
+    
+   
     color: #090809;
     font-size: .50em;
     width: calc(100vw - 30em);
@@ -201,51 +201,51 @@ height: 100vh;
     background-image: url(bake\ cookies.jpg);
     background-size: cover;
     background-position: center center;
-    bottom: -9em;
-    right: 1em;
+   
+   
 }
 
 
 #footer {
 
    
-    bottom: -30em;
-    left: 2.5em;
+    
+    
     color: #100f10;
     font-size: .50em;
 }
 #p1 {
     
-    bottom: -32em;
-    left: 2.5em;
+   
+   
     color: #100f10;
     font-size: .50em;
 }
 #p2 {
     
-    bottom: -34em;
-    left: 2.5em;
+    
+   
     color: #100f10;
     font-size: .50em;
 }
 #p3 {
     
-    bottom: -36em;
-    left: 2.5em;
+    
+    
     color: #100f10;
     font-size: .50em;
 }
 #p4 {
    
-    bottom: -38em;
-    left: 2.5em;
+   
+    
     color: #100f10;
     font-size: .50em;
 }
 #p5 {
    
-    bottom: -40em;
-    left: 2.5em;
+   
+  
     color: #100f10;
     font-size: .50em;
 }
