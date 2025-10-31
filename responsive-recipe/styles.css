@@ -132,7 +132,7 @@ height: 50vh;
 
 #l1 {
    
-    
+    float: left; 
   
     color: #0a0a0a;
     font-size: .50em;
@@ -150,7 +150,7 @@ height: 50vh;
 }
 #l2 {
    
-  
+    float: left; 
    
     color: #131212;
     font-size: .50em;
@@ -170,7 +170,7 @@ height: 50vh;
 }
 #l3 {
  
-    
+    float: left; 
    
     color: #0f0e0f;
    font-size: .50em;
@@ -188,7 +188,7 @@ height: 50vh;
 }
 #l4 {
     
-    
+    float: left; 
    
     color: #090809;
     font-size: .50em;
