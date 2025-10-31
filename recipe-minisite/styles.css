@@ -3,9 +3,9 @@
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: gray;
-    --nav-text-color: white;
-    --nav-hover-bkgd-color: lightgray;
+    --nav-bkgd-color: lightpink;
+    --nav-text-color: black;
+    --nav-hover-bkgd-color: lightpink;
     --nav-hover-text-color: black;
 }
 
