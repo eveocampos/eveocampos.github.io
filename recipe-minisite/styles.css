@@ -1,5 +1,16 @@
 /* mobile first design for responsive rescipe layout */
 
+/* define variables*/
+
+:root {
+
+    --nav-height: 3rem;
+    --nav-background-color: lightpink;
+    --nav-text-color: black;
+    --nav-hover-background-color: white;
+    --nav-hover-text-color: black;
+}
+
 * {
 
     box-sizing: border-box;
