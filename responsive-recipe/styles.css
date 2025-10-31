@@ -15,7 +15,7 @@ body {
 
 header {
 width: 100vw;
-height: 100vh;
+height: 50vh;
 }
 
 #EasiestChocolatechipcookiesPicture {
@@ -49,7 +49,7 @@ height: 100vh;
 
  
     width: 100vw;
-    height: 100vh;
+ 
   
 }
 #recipeInfo h2 {
@@ -116,7 +116,7 @@ height: 100vh;
 
   
     width: 100vw;
-    height: 100vh;
+   
   
 }
 #recipeDirections h3 {
@@ -145,7 +145,7 @@ height: 100vh;
     background-image: url(lined\ baking\ tray.jpg);
     background-size: cover;
     background-position: center center;
-    
+    float: right;
     
 }
 #l2 {
@@ -157,7 +157,7 @@ height: 100vh;
     width: calc(100vw - 30em);
 }
 
-#creamingbutterandsugarPciture {
+#creamingbutterandsugarPicture {
 
     
     width: 40vw;
@@ -165,7 +165,7 @@ height: 100vh;
     background-image: url(creaming\ butter\ and\ sugar.jpg);
     background-size: cover;
     background-position: center center;
- 
+    float: right;
     
 }
 #l3 {
@@ -183,7 +183,7 @@ height: 100vh;
     background-image: url(cookie\ dough\ balls.jpg);
     background-size: cover;
     background-position: center center;
-   
+    float: right;
    
 }
 #l4 {
@@ -201,7 +201,7 @@ height: 100vh;
     background-image: url(bake\ cookies.jpg);
     background-size: cover;
     background-position: center center;
-   
+    float: right;
    
 }
 
