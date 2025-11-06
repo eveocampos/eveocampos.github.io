@@ -113,6 +113,19 @@ height: 100vh;
     color: #f4eaef;
     font-size: .5em;
 }
+
+#toggleDarkMode {
+    margin-top: 2em;
+}
+
+body.darkMode {
+    background-color: black;
+    color: white;
+}
+
+body.darkMode h1 {
+    color:#ef52c9;
+}
 @media screen and (orientation: landscape) {
 
     #rhododendronPicture {
