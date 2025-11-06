@@ -212,4 +212,12 @@ body.darkMode #rhododendronInfo h2 {
     background-color: black;
     color: white;
 }
+body.darkMode #rhododendronTitle {
+    background-color: black;
+    
+}
+body.darkMode #rhododendronTitle h2 {
+    background-color: black;
+    color:#ef52c9;
+}
 }
