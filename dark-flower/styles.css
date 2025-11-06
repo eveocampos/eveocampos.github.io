@@ -121,14 +121,15 @@ height: 100vh;
     }
     #rhododendronTitle {
         width: 50vw;
-        background-color: #447609
+        background-color: #447609;
     }
      #rhododendronTitle h1 {
          width: 45vw;
      }
     #rhododendronInfo {
        width: 50vw;
-        background-color: #447609
+       height: 50vh;
+        background-color: #447609;
     }
     #rhododendronInfo h2 {
         width: 45vw;
