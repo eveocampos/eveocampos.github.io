@@ -162,3 +162,16 @@ height: 100vh;
     width: 50vw;
     right: 48.5vw;
 }
+
+#toggleDarkMode {
+    margin-top: 2em;
+}
+
+body.darkMode {
+    background-color: black;
+    color: white;
+}
+
+body.darkMode h1 {
+    color: palevioletred;
+}
