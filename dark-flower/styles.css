@@ -134,7 +134,7 @@ height: 100vh;
     #rhododendronInfo h2 {
         width: 45vw;
     }
-}
+
 #footer {
     width: 50vw;
         left: 50vw;
@@ -164,15 +164,52 @@ height: 100vh;
     right: 48.5vw;
 }
 
+
 #toggleDarkMode {
-    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 body.darkMode {
-    background-color:black;
+    background-color: black;
     color: white;
 }
 
 body.darkMode h1 {
     color: pink;
+}
+body.darkMode #p1{
+    background-color: black;
+    color: white;
+}
+body.darkMode #p2{
+    background-color: black;
+    color: white;
+}
+body.darkMode #p3{
+    background-color: black;
+    color: white;
+}
+body.darkMode #p4{
+    background-color: black;
+    color: white;
+}
+body.darkMode #p5{
+    background-color: black;
+    color: white;
+}
+body.darkMode #p6{
+    background-color: black;
+    color: white;
+}
+body.darkMode #footer{
+    background-color: black;
+    
+}
+body.darkMode #rhododendronInfo {
+    background-color: black;
+}
+body.darkMode #rhododendronInfo h2 {
+    background-color: black;
+    color: white;
+}
 }
