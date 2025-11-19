@@ -20,7 +20,7 @@ h1, h2, p {
 
 /* five sections of 100vh == 500vh with a tall background photo of the columbian mammoth */
 main {
-    height: 700vh;
+    height: 500vh;
     background-image: url(small\ columbian\ mammoth.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ section > .content {
 /* paragraph tags are given a size and padding */
 section > .content > p {
     font-size: 2rem;
-    padding: 1rem;
+    padding-left: 1rem;
 }
 
 /* position the "scroll down" instructions at the bottom of the screen, aligned with .content */
