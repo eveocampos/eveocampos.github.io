@@ -18,10 +18,10 @@ h1, h2, p {
 	margin: 0;
 }
 
-/* five sections of 100vh == 500vh with a tall background photo of the building */
+/* five sections of 100vh == 500vh with a tall background photo of the columbian mammoth */
 main {
     height: 500vh;
-    background-image: url("../images/empire-state-building.jpg");
+    background-image: url(columbiamammoth.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -76,7 +76,3 @@ section > .instructions {
     padding-left: 1rem; /* to align with paragraphs */
 }
 
-/* change the color in the last section due to the background image */
-#section5 p {
-    background-color: #cfddebbb;
-}
