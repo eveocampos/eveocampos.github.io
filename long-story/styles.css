@@ -34,7 +34,7 @@ section {
   
 }
 
-/* content divs within the sections are positioned absolutely to the top and right, almost half the page wide */
+/* content divs within the sections are positioned absolutely to the top and left, almost half the page wide */
 section > .content {
     position: absolute;
     width: 50vw;
@@ -73,6 +73,6 @@ section > .instructions {
     font-size: 7rem;
     line-height: 6rem;
     font-family:'Times New Roman', Times, serif;
-    margin-left: -0.4rem; /* due to the size and design of the font, bump it left a tiny bit for visual alignment */
+    margin-left: -0.4rem; 
     padding-left: 1rem; /* to align with paragraphs */
 }
