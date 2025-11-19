@@ -20,7 +20,7 @@ h1, h2, p {
 
 /* five sections of 100vh == 500vh with a tall background photo of the columbian mammoth */
 main {
-    height: 500vh;
+    height: 700vh;
     background-image: url(columbiamammoth.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@ section > .instructions {
 #section1 h1 {
     font-size: 7rem;
     line-height: 6rem;
-    font-family: Limelight, serif;
+    font-family:'Times New Roman', Times, serif;
     margin-left: -0.4rem; /* due to the size and design of the font, bump it left a tiny bit for visual alignment */
     padding-left: 1rem; /* to align with paragraphs */
 }
