@@ -20,9 +20,9 @@ h1, p {
 
 /* five sections of 100vh == 500vh with a tall background photo of the columbian mammoth */
 main {
-    height: 500vh;
+    height: 350vh;
     background-image: url(large\ mammoth.jpg);
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
     background-position: center top;
 }
@@ -76,4 +76,3 @@ section > .instructions {
     margin-left: -0.4rem; /* due to the size and design of the font, bump it left a tiny bit for visual alignment */
     padding-left: 1rem; /* to align with paragraphs */
 }
-
