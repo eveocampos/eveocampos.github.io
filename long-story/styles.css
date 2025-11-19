@@ -20,7 +20,7 @@ h1, p {
 
 /* five sections of 100vh == 500vh with a tall background photo of the columbian mammoth */
 main {
-    height: 350vh;
+    height: 500vh;
     background-image: url(large\ mammoth.jpg);
     background-size:cover;
     background-repeat: no-repeat;
