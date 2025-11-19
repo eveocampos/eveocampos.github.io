@@ -5,19 +5,23 @@
 	<!-- meta tags and title -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Long Story</title>
+	<title>Long Story: Columbian Mammoth</title>
 
-	<!-- external and internal CSS -->
-	<link rel="stylesheet" href="styles.css" media="all">
-	<style>
-		/* in-file CSS here */
-	</style>
+<!-- add CSS and JavaScript for Wow animation -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/wowjs@1.1.2/dist/wow.min.js"></script>
+	<script type="text/javascript">
 
-	<!-- external and internal JavaScript -->
-	<script src="scripts.js" defer></script>
-	<script>
-		// in-page JavaScript here
+        // JavaScript to wait for HTML + CSS to load, then initialize Wow.js
+        window.addEventListener("load", function() {
+    	    wow = new WOW({ animateClass: 'animate__animated' });
+            wow.init();
+        });
+        
 	</script>
+
+	<!-- this page's CSS -->
+	<link href="styles.css" rel="stylesheet">
 
 </head>
 <body>
