@@ -105,7 +105,16 @@ nav>ul>li>ul>li:hover {
 nav>ul>li>ul>li:hover a {
     color: var(--nav-hover-text-color);
 }
-
+#homepagePicture {
+    
+  
+    height: 25vh;
+    background-image: url(homepage.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-top: 0;
+    float: right;
+}
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: landscape) {
