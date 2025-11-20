@@ -44,6 +44,13 @@ h2 {
     position:absolute;
     top: 34em;
 }
+
+#picture2 {
+    margin: 1em;
+    position:absolute;
+    padding: 0;
+    top: 50em;
+}
 nav {
     position: absolute;
     top: 0;
