@@ -1,0 +1,82 @@
+h1 {
+     Color:red;
+    position:absolute;
+    margin: 1em;
+    top:4em;
+ }
+#p1 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 14em;
+}
+#p2 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 15.5em;
+}
+#p3 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 17em;
+}
+h2 {
+    color:red;
+    position:absolute;
+    margin: 1em;
+    top: 20em;
+}
+#p4 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 35em;
+}
+#p5 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 36.5em;
+}
+#p6 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 38em;
+}
+#p7 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 39.5em;
+}
+#p8 {
+    color:white;
+    position:absolute;
+    margin: 1em;
+    top: 41em;
+}
+
+
+
+
+
+
+ <p id="p1">
+       As a self proclaimed FOODIE I have tried many different cuisines. I love food, and I love trying new foods.</p1> 
+       <p id="p2">One of my all time favorite cuisines is Mexican, and not only because I am Mexican and grew up eating these
+       delicous foods everyday,</p2>
+       <p id="p3"> but because they are truly delicious. I have compiled several recipes here that 
+       anyone can make, from the novice cook to the seasoned veteran. Give them a try today!</p3>
+    
+
+    <h2> A Brief History of Mexican Dishes</h2>
+
+    <p id="p4">
+        Mexican cuisine has its roots in the ancient civilizations of Mesoamerica, including the Olmecs, Maya, and Aztecs.</p4>
+        <p id="p5">Utilizing ingredients such as maize, cacao, squash, beans, chili peppers, and tomatoes.</p5> 
+        <p id="p6">The Spanish conquest in the 16th century brought new ingredients such as beef, pork, rice, and new fruits and vegetables.</p6> 
+         <p id="p7"> This new fusion of foods is known as "mestiza". Over the centuries many cultures have influenced Mexican cuisine. </p7>  
+        <p id="p8"> From African influences to Middle Eastern, Mexican food has blended these cultures into their own unique cuisine that reflects their resilience and creativity.</p8>
