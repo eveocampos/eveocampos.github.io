@@ -18,6 +18,32 @@ body {
     padding: var(--nav-height) 0 0 0.5;
 }
 
+h1{
+    color:red;
+    position:absolute;
+    margin:2em;
+    top: 5em;
+}
+#p1 {
+    color: white;
+    margin:2em;
+    padding-right: 25em;
+    position:absolute;
+    top: 15em;
+}
+h2 {
+    color:red;
+    position:absolute;
+    margin: 2em;
+    top: 20em;
+}
+#p2{
+    color:white;
+    margin:2em;
+    padding-right: 25em;
+    position:absolute;
+    top: 34em;
+}
 nav {
     position: absolute;
     top: 0;
