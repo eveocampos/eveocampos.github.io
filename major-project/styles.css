@@ -44,7 +44,12 @@ h2 {
     position:absolute;
     top: 34em;
 }
-
+#picture1 {
+    margin: 1em;
+    position:absolute;
+    padding: 0;
+    top: 5em;
+}
 #picture2 {
     margin: 1em;
     position:absolute;
