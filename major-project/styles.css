@@ -3,9 +3,9 @@
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: rgb(167, 3, 3);
+    --nav-bkgd-color: rgb(11, 8, 8);
     --nav-text-color: black;
-    --nav-hover-bkgd-color: rgb(167, 3, 3);
+    --nav-hover-bkgd-color: rgb(9, 9, 9);
     --nav-hover-text-color: black;
 }
 
@@ -19,26 +19,26 @@ body {
 }
 
 h1{
-    color:red;
+    color:rgb(6, 6, 6);
     position:absolute;
     margin:2em;
     top: 5em;
 }
 #p1 {
-    color: white;
+    color: rgb(9, 9, 9);
     margin:2em;
     padding-right: 25em;
     position:absolute;
     top: 15em;
 }
 h2 {
-    color:red;
+    color:rgb(5, 1, 1);
     position:absolute;
     margin: 2em;
     top: 20em;
 }
 #p2{
-    color:white;
+    color:rgb(12, 12, 12);
     margin:2em;
     padding-right: 25em;
     position:absolute;
