@@ -108,7 +108,7 @@ nav>ul>li>a {
 
 nav>ul>li>a::after {
     position: top left;
-    content: " v ";
+    content: "v";
     right: 0.3rem;
     top: 0.2rem;
     color: inherit;
