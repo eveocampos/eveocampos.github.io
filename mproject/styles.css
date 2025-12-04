@@ -21,7 +21,7 @@ img {
   width: 100%;
   height: auto;
 }
-#homepage h1 {
+#homepage {
 
     position: absolute;
     top: 10em;
@@ -39,7 +39,7 @@ img {
     font-size: 1.2em;
     color: #0c0c0c;
 }
-#homepage2 h2 {
+#homepage2 {
 
     position: absolute;
     top: 14em;
