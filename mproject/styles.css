@@ -57,7 +57,7 @@ img {
     font-size: 1.2em;
     color: #0c0c0c;
 }
-#xssalsapicture {
+img salsa {
     background-image: url(xs\ salsa.jpg);
     width: 25%;
     height:auto;
