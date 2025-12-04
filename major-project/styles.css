@@ -143,10 +143,7 @@ nav>ul>li>ul>li:hover {
 nav>ul>li>ul>li:hover a {
     color: var(--nav-hover-text-color);
 }
-# footer {
-    width: 96;
 
-}
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
 @media screen and (orientation: landscape) {
