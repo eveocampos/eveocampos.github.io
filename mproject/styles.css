@@ -24,12 +24,38 @@ img {
 h1 {
 
     position: absolute;
-    top: 0;
-    right: 1em;
+    top: 10em;
+    left: 10em;
     color: #0c0c0c;
-    font-size: 2em;
+    font-size: 3em;
     width: calc(100vw - 2em);
   
+}
+#p1{
+     position: absolute;
+    top: 30em;
+    margin-left: 14em;
+   margin-right: 12em;
+    font-size: 1.2em;
+    color: #0c0c0c;
+}
+h2 {
+
+    position: absolute;
+    top: 14em;
+    left: 7em;
+    color: #0c0c0c;
+    font-size: 3em;
+    width: calc(100vw - 2em);
+  
+}
+#p2{
+     position: absolute;
+    top: 40em;
+    margin-left: 14em;
+   margin-right: 12em;
+    font-size: 1.2em;
+    color: #0c0c0c;
 }
 nav {
     position: absolute;
