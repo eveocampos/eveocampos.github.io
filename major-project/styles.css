@@ -106,13 +106,11 @@ nav>ul>li>a {
     padding: 0.5rem;
 }
 
-nav>ul>li>a::after {
-    position: top left;
+nav > ul > li > a::after {
     content: "v";
+    position: absolute;
     right: 0.3rem;
     top: 0.2rem;
-    color: inherit;
-    font-size: 110%;
 }
 
 nav>ul>li>ul {
