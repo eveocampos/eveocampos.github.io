@@ -17,7 +17,24 @@ body {
     margin: 0;
     padding: var(--nav-height) 0 0 0.5;
 }
+#photo1 {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(smbanner.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+h1 {
 
+    position: absolute;
+    top: 0;
+    right: 1em;
+    color: #0c0c0c;
+    font-size: 2em;
+    width: calc(100vw - 2em);
+  
+}
 nav {
     position: absolute;
     top: 0;
