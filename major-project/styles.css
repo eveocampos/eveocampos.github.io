@@ -20,42 +20,42 @@ body {
 
 h1{
     color:rgb(6, 6, 6);
-    position:absolute;
-    margin:2em;
-    top: 5em;
+    position: absolute;
+    right:9em;
+    top: 13em;
+    font-size:xxx-large
 }
 #p1 {
     color: rgb(9, 9, 9);
-    margin:2em;
-    padding-right: 25em;
+    left: 15em;
+  
     position:absolute;
-    top: 15em;
+    top: 39em;
+    font-size:large
 }
 h2 {
     color:rgb(5, 1, 1);
     position:absolute;
-    margin: 2em;
+    right: 3em;
     top: 20em;
+    font-size:xxx-large;
 }
 #p2{
     color:rgb(12, 12, 12);
-    margin:2em;
-    padding-right: 25em;
+    left: 15em;
     position:absolute;
-    top: 34em;
+    top: 60em;
+    font-size:large;
+   
 }
 #picture1 {
-    margin: 1em;
+    margin: 0;
     position:absolute;
     padding: 0;
-    top: 2em;
+    top: 3em;   
+   
 }
-#picture2 {
-    margin: 1em;
-    position:absolute;
-    padding: 0;
-    top: 50em;
-}
+
 nav {
     position: absolute;
     top: 0;
