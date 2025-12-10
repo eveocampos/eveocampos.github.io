@@ -168,7 +168,7 @@ body#home main {
     right: 15vw;
     text-align: center;
     min-height: 70vh;
-    background-color: rgba(255,0,0,0.5); /* delete this later; it just shows the box size */
+   
 }
 
 /* ----- MEDIA QUERY for landscape/desktop layout ----- */
@@ -216,7 +216,7 @@ body#home main {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     body#home main {
-    background-image: none; background-color: lightblue;
+    background-image: url(xspapermache.jpg); background-color: lightblue;
   }
 }
 
