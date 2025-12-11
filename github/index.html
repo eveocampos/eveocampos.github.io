@@ -10,12 +10,7 @@
 	<!-- external and internal CSS -->
 	<link rel="stylesheet" href="styles.css" media="all">
 	<style>
-		#div.photo {
-			position:absolute;
-			width:20vh;
-			height:40vh;
-			
-		}
+		
 	</style>
 
 
@@ -25,7 +20,11 @@
 	<h1>Eve</h1>
 
 	
-	<div id="photo"><img src="photo for html.jpg" alt="Eve"></div>
+<picture>
+  <source srcset="photo for html.jpg" media="(max-width: 100px)">
+  <source srcset="photo for html.jpg">
+  <img src="photo for html.jpg" alt="eve" style="width: 10px; margin: 5px; height: 30px">
+</picture>
 <p>Eternally introverted; forced to be an extrovert. Wine loving cat lady.</p>
 
 <p> <a href="https://github.com/eveocampos/eveocampos.github.io">Github Repository</a></p>
