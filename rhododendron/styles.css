@@ -7,9 +7,8 @@
 }
 
 body {
-
-    padding: 0;
     margin: 0;
+    padding: var(--nav-height) 0 0 0.5;
 }
 
 header {
@@ -113,6 +112,58 @@ height: 100vh;
     color: #f4eaef;
     font-size: .5em;
 }
+
+
+@media screen and (orientation: landscape) {
+
+    #rhododendronPicture {
+        width: 50vw;
+        left: 50vw;
+    }
+    #rhododendronTitle {
+        width: 50vw;
+        background-color: #447609
+    }
+     #rhododendronTitle h1 {
+         width: 45vw;
+     }
+    #rhododendronInfo {
+       width: 50vw;
+        background-color: #447609 
+    }
+    #rhododendronInfo h2 {
+        width: 45vw;
+    }
+}
+#footer {
+    width: 50vw;
+        left: 50vw;
+}
+#p1 {
+    width: 50vw;
+    right: 48.5vw;
+}
+#p2 {
+    width: 50vw;
+    right: 48.5vw;
+}
+#p3 {
+    width: 50vw;
+    right: 48.5vw;
+}
+#p4 {
+    width: 50vw;
+    right: 48.5vw;
+}
+#p5 {
+    width: 50vw;
+    right: 48.5vw;
+}
+#p6 {
+    width: 50vw;
+    right: 48.5vw;
+}
+
 :root {
     --nav-height: 3rem;
     --nav-bkgd-color: black;
@@ -260,53 +311,4 @@ nav>ul>li>ul>li:hover a {
         content: "";
     }
 
-}
-@media screen and (orientation: landscape) {
-
-    #rhododendronPicture {
-        width: 50vw;
-        left: 50vw;
-    }
-    #rhododendronTitle {
-        width: 50vw;
-        background-color: #447609
-    }
-     #rhododendronTitle h1 {
-         width: 45vw;
-     }
-    #rhododendronInfo {
-       width: 50vw;
-        background-color: #447609 
-    }
-    #rhododendronInfo h2 {
-        width: 45vw;
-    }
-}
-#footer {
-    width: 50vw;
-        left: 50vw;
-}
-#p1 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p2 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p3 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p4 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p5 {
-    width: 50vw;
-    right: 48.5vw;
-}
-#p6 {
-    width: 50vw;
-    right: 48.5vw;
 }
