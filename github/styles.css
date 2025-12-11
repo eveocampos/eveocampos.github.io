@@ -1,0 +1,8 @@
+#evePhoto {
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+    background-image: url(photo\ for\ html.jpg);
+    background-size: cover;
+    background-position: center center;
+}
