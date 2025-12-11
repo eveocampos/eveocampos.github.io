@@ -1,9 +1,9 @@
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: lightpink;
-    --nav-text-color: black;
-    --nav-hover-bkgd-color: lightpink;
-    --nav-hover-text-color: black;
+    --nav-bkgd-color: black;
+    --nav-text-color: white;
+    --nav-hover-bkgd-color: black;
+    --nav-hover-text-color: white;
 }
 
 * {
