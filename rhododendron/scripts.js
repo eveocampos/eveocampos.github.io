@@ -15,7 +15,7 @@ function clickNav(bodyClicked) {
             eachMenu.classList.remove("clicked");
         }
     }
-}
+
 
 // load click events after DOM loaded
 document.addEventListener("DOMContentLoaded", function () {
@@ -49,3 +49,4 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
+}
